@@ -5,15 +5,15 @@ Json Schema Model
    :target: https://travis-ci.org/philpep/jsonschema-model
    :alt: Build status
 
-.. image:: https://pypip.in/download/jsonschema-model/badge.png
+.. image:: https://img.shields.io/pypi/dm/jsonschema-model.svg
    :target: https://pypi.python.org/pypi/jsonschema-model/
    :alt: Downloads
 
-.. image:: https://pypip.in/version/jsonschema-model/badge.png
+.. image:: https://img.shields.io/pypi/v/jsonschema-model.svg
    :target: https://pypi.python.org/pypi/jsonschema-model/
    :alt: Latest Version
 
-.. image:: https://pypip.in/license/jsonschema-model/badge.png
+.. image:: https://img.shields.io/pypi/l/jsonschema-model.svg
    :target: https://pypi.python.org/pypi/jsonschema-model/
    :alt: License
 
